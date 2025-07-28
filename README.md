@@ -7,6 +7,11 @@
 ├── sequelize@6.37.7
 └── sqlite3@5.1.7
 
+npm install axios@1.11.0 express@5.1.0 firebase-admin@13.4.0 sequelize@6.37.7 sqlite3@5.1.7
+
+# Levantar el backend
+node app.js
+
 # Lista de endpoints
 
 Obtener todos los usuarios
